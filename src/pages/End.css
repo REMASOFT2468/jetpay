@@ -1,0 +1,39 @@
+.john1 {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.john2 {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.john3 {
+  display: flex;
+}
+.john4 {
+  height: 40px;
+  width: 600px;
+}
+.john5 {
+  width: 42px;
+  height: 20px;
+  top: 1123px;
+  left: 420px;
+  gap: 0px;
+  opacity: 0px;
+  background: rgba(255, 255, 255, 1);
+}
+.john6 {
+  display: flex;
+}
+.john7 {
+  margin-left: 20px;
+  margin-top: -1px;
+}
+.john9 {
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.john10 {
+  padding: 80px;
+  text-align: center;
+}

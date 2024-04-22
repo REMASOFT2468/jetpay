@@ -1,0 +1,17 @@
+.header {
+    color: rgba(0, 0, 0, 1);
+    margin-left: 200px;
+    display: flex;
+}
+ul{
+    display: flex;
+    width: 71px;
+    height: 43px;
+    font-family: Heebo;
+    text-align: right;
+    margin-left: 1050px;
+    text-decoration: none;
+}
+li{
+    margin-left: 20px;
+}
